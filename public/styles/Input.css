@@ -1,0 +1,13 @@
+.input-pri {
+    height: 50px;
+    width: 200px;
+    border: 2px solid var(--cor-primary);
+    color: var(--cor-primary);
+}
+.input-pri:hover{
+    border: 2px solid var(--cor-primary);
+}
+.input-pri:target:focus-visible {
+    border: 2px solid var(--cor-primary);
+    
+}
